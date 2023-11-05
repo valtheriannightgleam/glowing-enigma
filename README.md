@@ -1,2 +1,1 @@
 # glowing-enigma
-glowing-enigma
